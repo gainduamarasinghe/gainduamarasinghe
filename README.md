@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/gaindu-amarasinghe-23b729276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gaindu-amarasinghe-23b729276" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22922504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22922504" height="30" width="40" /></a>
-<a href="https://instagram.com/gainduamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gainduamarasinghe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
