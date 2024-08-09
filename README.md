@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaindu</h1>
 
 ## 💫 About Me:
-- Student at Informatic Institute of Technology  
-- Email: gaindu2k03@gmail.com
+- 🏫Student at Informatic Institute of Technology  
+- 📧Email: gaindu2k03@gmail.com
   
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gaindu_amarasinghe_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaindu-amarasinghe-23b729276) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22922504) 
