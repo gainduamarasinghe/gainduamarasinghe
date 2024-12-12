@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gainduamarasinghe" alt="gainduamarasinghe" /></a> </p>
 
-- 🔭 I’m currently working on **BlynQ Vehicle Management System**
+- 🔭 I’m currently working on `BlynQ Vehicle Management System`
 
 - 🌱 I’m currently learning **at Informatic Institute of Technology**
 
